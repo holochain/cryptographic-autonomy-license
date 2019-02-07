@@ -49,9 +49,11 @@ You must give the same permissions received under this License to any Recipient,
 
   b) During the same period in which You exercise any of the permissions granted to You under this License, You must also provide a copy of any User Data in your possession to a third party having a Possessory Interest in such User Data at no charge;
 
-  c) You waive any legal power to forbid circumvention of technical protection measures that include use of the Work; and
+  c) You may not use the Software to control any cryptographic keys, seeds, or hashes pertaining to third parties where such control would prevent the third party from independently exercising the permissions granted under this License;
 
-  d) You disclaim any intention to limit operation or modification of the Work as a means of enforcing the legal rights of third parties against Recipients.
+  d) You waive any legal power to forbid circumvention of technical protection measures that include use of the Work; and 
+
+  e) You disclaim any intention to limit operation or modification of the Work as a means of enforcing the legal rights of third parties against Recipients.
 
 Other than the conditions requiring You to a) provide Recipients no-charge access to the Source Code of the Work or a Modified Work, and b) provide a copy at no charge of any User Data in Your possession to third parties having a Possessory Interest in the User Data, nothing in this License requires You to provide processing services to any Recipient or any other third party.
 
@@ -96,13 +98,13 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
  h) “Object Code” means any form of the work other than Source Code form, provided by Licensor or the result of any compilation process applied to the Source Code.
 
- i) “Open Source License” means any license approved by the Open Source Initiative (see OpenSource.org).
+ i) “Open Source License” means any license both approved by the Open Source Initiative (see OpenSource.org) and recognized by the Free Software Foundation as a “Free Software License” (see https://www.gnu.org/ or https://www.fsf.org).
 
  j) “Possessory Interest” means either 1) an ownership interest, 2), a non-ownership property interest, including but not limited to lawful possession.
 
  k) “Process User Data” (or “Processing User Data”) means 1) use a system, 2) perform a method, or 3) induce any other party to use a system or perform a method, using at least in part Software provided under this License, where User Data is an input or an output to the system or method.
 
- l) “Public Performance” (or “Publicly Performing”) means making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
+ l) “Public Performance” (or “Publicly Performing”) means any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
 
  m) “Recipient” means any third party receiving either the Software or a Public Performance of any interface thereof from You.
 
@@ -131,4 +133,6 @@ Any failure by Licensor to enforce any provision of this License will not consti
 ### 7.5 Severability
 If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any invalid or unenforceable portions will be interpreted to the effect and intent of the original portion. If such construction is not possible, the invalid or unenforceable portion will be severed from this License but the rest of this License will remain in full force and effect.
 
-***Some Rights Reserved:*** This document is published under a [Creative Commons Attribution Share-Alike [4] License.](https://creativecommons.org/licenses/by-sa/4.0/legalcodePP)*
+### 7.6 License for the Text of this License.
+The text of this license is released under a Creative Commons Attribution Share-Alike License, with the caveat that any modifications of this license may not use the name “Cryptographic Autonomy License” or any name confusingly similar thereto to describe any derived work of this License.
+
