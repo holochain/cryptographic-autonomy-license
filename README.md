@@ -1,138 +1,159 @@
-# Cryptographic Autonomy License - v.0.1
+Cryptographic Autonomy License version 1.0
 
-*This Cryptographic Autonomy License (the “License”) applies to any Work whose owner has marked it with any of the following notices:*
+This Cryptographic Autonomy License (the “License”) applies to any Work whose owner has marked it with any of the following notices:
 
-  *“Licensed under the Cryptographic Autonomy License version 1.0,” or*
+“Licensed under the Cryptographic Autonomy License version 1.0,” or
 
-  *“Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception.”*
+“SPDX-License-Identifier: CAL-1.0,” or
 
-*The owner may also specify a jurisdiction for disputes arising out of a particular Work:*
+“Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception,” or
 
-  *“The Applicable Jurisdiction for disputes arising from the licensing or use of this Work is _____.”*
-_________________________
+“SPDX-License-Identifier: CAL-1.0 with Combined-Work-Exception.”
 
-## 1. License Grant
+---
 
-### 1.1. Grants
-Conditioned on compliance with section 2, and subject to the reservations of section 1.2, you have the world-wide, royalty-free, non-exclusive permission to:
+1. Purpose
 
-  a) Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any interface derived from the Work; and
+This License gives You unlimited permission to use and modify the software to which it applies (the “Work”), either as-is or in modified form, for Your private purposes, while protecting the owners and contributors to the software from liability. 
 
-  b) Take any action with the Work or a Modified Work that would infringe any patent claims Licensable by Licensor, to the extent that those claims are embodied in the Work as distributed by Licensor.
+This License also strives to protect the freedom and autonomy of third parties who receive the Work from you.  If any non-affiliated third party receives any part, aspect, or element of the Work from You, this License requires that You provide that third party all the permissions and materials needed to independently use and modify the Work without that third party having a loss of data or capability due to your actions.
 
-### 1.2. Limitations on Grants
-The permissions in Section 1.1 are the only permissions granted under this license. The following reservations apply:
+The full permissions, conditions, and other terms are laid out below.
 
-  a) Licensor does not grant any patent license for Code that the Licensor has removed from the Work.
+2. Receiving a License
 
-  b) Licensor does not grant any license to the trademarks, service marks, or logos of
+In order to receive this License, You must agree to its rules. The rules of this License are both obligations of Your agreement with the Licensor and conditions to your License. You must not do anything with the Work that triggers a rule You cannot or will not follow. 
 
-  c) Licensor, except to the extent necessary i) to comply with the attribution conditions in section 2.1 of this License; and ii) to describe a Modified Work as being compatible or not compatible with the Work.
+2.1. Application
 
-## 2. Conditions
-The following conditions apply to any exercise of the permissions given in section 1.
+The terms of this License apply to the Work as you receive it from Licensor, as well as to any modifications, elaborations, or implementations created by You that contain any licenseable portion of the Work (a “Modified Work”). Unless specified, any reference to the Work also applies to a Modified Work.
 
-### 2.1. Attribution
-You must a) retain all copyright, patent, or trademark notices contained in the Source Code, as well as any notices of licensing, authorship, or attribution, and b) provide all such notices to each Recipient, together with a statement acknowledging the use of the Software.
+2.2. Offer and Acceptance
 
-### 2.2. Licensed Distribution
-#### 2.2.1. Distribution of the Work
-With the exception in section 2.4, You must provide to each Recipient of the Work Access to Source Code corresponding to the Work provided.
+This License is automatically offered to every person and organization. You show that you accept this License and agree to its conditions by taking any action with the Work that, absent this License, would infringe any intellectual property right held by Licensor. 
 
-#### 2.2.2. Distribution of a Modified Work
-With the exception in section 2.4, You must provide to each Recipient of a Modified Work Access to Source Code corresponding to the Modified Work provided by You. The Source Code corresponding to the modifications in a Modified Work must be provided to the Recipient either a) under this License, or b) under a Compatible Open Source License.
+2.3. Compliance and Remedies
 
-### 2.3. Maintaining User Autonomy
-You must give the same permissions received under this License to any Recipient, and You must refrain from using the permissions given under this License to interfere with any third party’s Possessory Interest in their own User Data. This includes:
+Any failure to act according to the terms and conditions of this License places Your use of the Work outside the scope of the License and infringes the intellectual property rights of the Licensor. In the event of infringement, the terms and conditions of this License may be enforced by Licensor under the intellectual property laws of any jurisdiction to which You are subject. You also agree that either the Licensor or a Recipient (as an intended third-party beneficiary) may enforce the terms and conditions of this License against You via specific performance.
 
-  a) You may not, by means of cryptographic controls, technological protection measures, or any other method, limit a third party from independently Processing User Data in which they have a Possessory Interest;
+3. Permissions and Conditions
 
-  b) During the same period in which You exercise any of the permissions granted to You under this License, You must also provide a copy of any User Data in your possession to a third party having a Possessory Interest in such User Data at no charge;
+3.1. Permissions Granted
 
-  c) You may not use the Software to control any cryptographic keys, seeds, or hashes pertaining to third parties where such control would prevent the third party from independently exercising the permissions granted under this License;
+Conditioned on compliance with section 4, and subject to the limitations of section 3.2, Licensor grants You the world-wide, royalty-free, non-exclusive permission to: 
 
-  d) You waive any legal power to forbid circumvention of technical protection measures that include use of the Work; and 
+a) Take any action with the Work that would infringe the non-patent intellectual property laws of any jurisdiction to which You are subject; and
 
-  e) You disclaim any intention to limit operation or modification of the Work as a means of enforcing the legal rights of third parties against Recipients.
+b) Take any action with the Work that would infringe any patent claims that Licensor can license or becomes able to license, to the extent that those claims are embodied in the Work as distributed by Licensor.
 
-Other than the conditions requiring You to a) provide Recipients no-charge access to the Source Code of the Work or a Modified Work, and b) provide a copy at no charge of any User Data in Your possession to third parties having a Possessory Interest in the User Data, nothing in this License requires You to provide processing services to any Recipient or any other third party.
+3.2. Limitations on Permissions Granted
 
-### 2.4. Combined Work Exception
-As an exception to the conditions in sections 2.2.1 and 2.2.2, any Source Code marked by the Licensor as having the “Combined Work Exception,” or any Object Code created from Source Code so marked, may be combined with other Software into a larger work, and the resulting larger work may be used, distributed, or sold under any other license, so long as You: a) comply with the notice conditions of section 2.1; b) comply with the distribution conditions of 2.2.1 and 2.2.2, relative to the Source Code provided to You; and c) comply with section 2.3.
+The following limitations apply to the permissions granted in section 3.1:
 
-## 3. Acceptance and Remedies
-By taking any action that, absent this License, would infringe the intellectual property laws of an Applicable Jurisdiction, You are affirmatively agreeing to the conditions of this License. Any use of the Work outside the scope of this License infringes the rights of the Licensor and may be enforced via the intellectual property laws of the appropriate Jurisdiction. In addition, You are not responsible for enforcing compliance by third parties to this License, but You agree that either the Licensor or a Recipient (as an intended third-party beneficiary) may enforce these conditions via specific performance.
+a) Licensor does not grant any patent license for claims that are only infringed due to modification of the Work as provided by Licensor, or the combination of the Work as provided by Licensor, directly or indirectly, with any other component, including other software or hardware.
 
+b) Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 4.1 of this License.
 
-## 4. Term and Termination
-The term of this License begins when You receive the Work, and continues until terminated for any of the reasons described herein, or until all applicable intellectual property rights expire, whichever comes first (“Term”). If this License is terminated for any reason, all permissions granted to You under section 1 by any Licensor automatically terminate. Otherwise, permissions granted to You under section 1 by any Licensor shall continue during the Term. You will immediately cease using and providing the Work, including as part of any Modified Work.
+4. Conditions
 
-### 4.1. Termination for Non-Compliance; Reinstatement
-This License terminates automatically if You fail to comply with any of the conditions in section 2. As a special exception to termination for non-compliance, Your permissions under this License will be reinstated if You come into compliance with all the conditions in section 2 within sixty (60) days of becoming aware of Your noncompliance. You are eligible for reinstatement of permissions one time only, and only for the sixty days immediately after becoming aware of noncompliance. Loss of permissions granted under this License due to  either a) sustained noncompliance lasting more than sixty days, or b) subsequent termination for noncompliance after reinstatement, is permanent.
+If You exercise any permission granted by this License, such that the Work, or any part, aspect, or element of the Work, is distributed, communicated, made available, or made perceptible to a non-Affiliate third party (a “Recipient”), either via physical delivery or via a network connection to the Recipient, You must comply with the following conditions: 
 
-### 4.2. Termination Due to Litigation
-If You initiate litigation against Licensor, or any Recipient of the Work, either direct or indirect, asserting that the Work directly or indirectly infringes any patent, then all permissions granted to You by this License shall terminate. In the event of termination due to litigation, all permissions which have been validly granted by You under this License, directly or indirectly, shall survive termination.
+4.1. Provide Access to Source Code
 
-## 5. Disclaimer of Warranty and Limits on Liability
-### 5.1. Disclaimer of Warranty
-The Work is provided under this License on an "AS IS" BASIS and WITHOUT WARRANTY, either express or implied, including, without limitation, the warranties of non-infringement, merchantability or fitness for a particular purpose. THE ENTIRE RISK AS TO THE QUALITY OF THE WORK IS WITH YOU. This disclaimer is an essential part of this License. No license to the Work is granted except under this disclaimer.
+Subject to the exception in section 4.4, You must provide to each Recipient a copy of, or no-charge unrestricted network access to, the Source Code corresponding to the Work.
 
-### 5.2. Limitation of Liability
-Under no circumstances and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall the Licensor be liable to anyone for any indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of profits, revenue, or any and all other commercial damages or losses. This limitation of liability shall not apply to the extent applicable law prohibits such limitation.
+The “Source Code” of the Work means the form of the Work preferred for making modifications, including any comments, configuration information, documentation, help materials, installation instructions, cryptographic seeds or keys, and any information reasonably necessary for the Recipient to independently compile and use the Source Code and to have full access to the functionality contained in the Work.
 
-## 6. Definitions
+4.1.1. Providing Network Access to the Source Code
 
-  a) “Access to Source Code” means any of  a) a copy of, or b) no-charge unrestricted network access to, the Source Code.
+Network access to the Notices and Source Code may be provided by You or by a third party, such as a public software repository, and must persist during the same period in which You exercise any of the permissions granted to You under this License and for at least one year thereafter.
 
-  b) “Applicable Jurisdiction” means any of: i) the jurisdiction where the Licensor is located; ii) the jurisdiction where the Licensee is located; or iii) any jurisdiction in which the Licensee is subject to the legal system.
+4.1.2. Source Code for a Modified Work
 
-  c) “Compatible Open Source License” means an Open Source License that allows Object Code to be distributed that is created using both Source Code provided under this License and Source Code provided under the Open Source License.
+Subject to the exception in section 4.5, You must provide to each Recipient of a Modified Work Access to Source Code corresponding to those portions of the Work remaining in the Modified Work as well as the modifications used by You to create the Modified Work. The Source Code corresponding to the modifications in the Modified Work must be provided to the Recipient either a) under this License, or b) under a Compatible Open Source License.
 
- d) “Licensable” means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.
+A “Compatible Open Source License” means a license accepted by the Open Source Initiative that allows object code created using both Source Code provided under this License and Source Code provided under the other open source license to be distributed together as a single work.
 
- e) “Licensee” (also “You” or “Your”) means an individual or a legal entity exercising rights under this License.
+4.1.3. Coordinated Disclosure of Security Vulnerabilities
 
- f) “Licensor” means an individual or legal entity that creates, contributes to the creation of, or owns a Work subject to this License.
+You may delay providing the Source Code corresponding to a particular modification of the Work for up to ninety (90) days (the “Embargo Period”) if: a) the modification is intended to address a newly-identified vulnerability or a security flaw in the Work, b) disclosure of the vulnerability or security flaw before the end of the Embargo Period would put the data, identity, or autonomy of one or more Recipients of the Work at significant risk, c) You are participating in a coordinated disclosure of the vulnerability or security flaw with one or more additional Licensees, and d) Access to the Source Code pertaining to the modification is provided to all Recipients at the end of the Embargo Period.
 
- g) “Modified Work” means any work containing, combining with, derivative of, or Publicly Performing an interface included in or derived from the Work.
+4.2. Maintain User Autonomy
 
- h) “Object Code” means any form of the work other than Source Code form, provided by Licensor or the result of any compilation process applied to the Source Code.
+In addition to providing each Recipient the opportunity to have Access to the Source Code, You cannot use the permissions given under this License to interfere with a Recipient’s ability to fully use an independent copy of the Work generated from the Source Code You provide with the Recipient’s own User Data.
 
- i) “Open Source License” means any license both approved by the Open Source Initiative (see OpenSource.org) and recognized by the Free Software Foundation as a “Free Software License” (see https://www.gnu.org/ or https://www.fsf.org).
+“User Data” means any data that is an input to or an output from the Work, where the presence of the data is necessary for substantially identical use of the Work in an equivalent context chosen by the Recipient, and where the Recipient has an existing ownership interest, an existing right to possess, or where the data has been generated by, for, or has been assigned to the Recipient.
 
- j) “Possessory Interest” means either 1) an ownership interest, 2), a non-ownership property interest, including but not limited to lawful possession.
+4.2.1. No Withholding User Data
 
- k) “Process User Data” (or “Processing User Data”) means 1) use a system, 2) perform a method, or 3) induce any other party to use a system or perform a method, using at least in part Software provided under this License, where User Data is an input or an output to the system or method.
+Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any Recipient to whom you provide services via the Work, a no-charge copy, provided in a commonly used electronic form, of the Recipient’s User Data in your possession, to the extent that such User Data is available to You for use in conjunction with the Work. 
 
- l) “Public Performance” (or “Publicly Performing”) means any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
+4.2.2. No Technical Measures that Limit Access
 
- m) “Recipient” means any third party receiving either the Software or a Public Performance of any interface thereof from You.
+You may not, by the use of cryptographic methods applied to anything provided to the Recipient, by possession or control of cryptographic keys, seeds, or hashes, by other technological protection measures, or by any other method, limit a Recipient's ability to access any functionality present in the Recipient's independent copy of the Work, or deny a Recipient full control of the Recipient's User Data.
 
- n) “Software” means either Source Code or Object Code.
+4.2.3. No Legal or Contractual Measures that Limit Access
 
- o) “Source Code” means the form of the work preferred for making modifications, including any comments, design documentation, help materials, installation instructions, cryptographic keys, and any information reasonably necessary to compile the Source Code into Object Code or Process User Data using generated Object Code.
+You may not contractually restrict a Recipient's ability to independently exercise the permissions granted under this License. You waive any legal power to forbid circumvention of technical protection measures that include use of the Work, and You waive any claim that the capabilities of the Work were limited or modified as a means of enforcing the legal rights of third parties against Recipients.
 
- p) “User Data” means any data that is either a) an input to, or b) an output from, the Work or a Modified Work, in which a third party other than the Licensee has a Possessory Interest in the data.
+4.3. Provide Notices and Attribution
 
- q) “Work” means any original creation protectable under the patent, copyright, or database protection rights of either the Licensor or the Licensee’s jurisdiction.
+You must retain all licensing, authorship, or attribution notices contained in the Source Code (the “Notices”), and provide all such Notices to each Recipient, together with a statement acknowledging the use of the Work. Notices may be provided directly to a Recipient or via an easy-to-find hyperlink to an Internet location also providing Access to Source Code.
 
+4.4. Scope of Conditions in this License
 
-## 7. Other Provisions
-### 7.1. Jurisdiction and Governing Law
+You are required to uphold the conditions of this License only relative to those who are Recipients of the Work from You.  Other than providing Recipients with the applicable Notices, Access to Source Code, and a copy of and full control of their User Data, nothing in this License requires You to provide processing services to or engage in network interactions with anyone. 
+
+4.5. Combined Work Exception
+
+As an exception to condition that You provide Recipients Access to Source Code, any Source Code files marked by the Licensor as having the “Combined Work Exception,” or any object code exclusively resulting from Source Code files so marked, may be combined with other Software into a “Larger Work.” So long as you comply with the requirements to provide Recipients the applicable Notices and Access to the Source Code provided to You by Licensor, and you provide Recipients access to their User Data and do not limit Recipient’s ability to independently work with their User Data, any other Software in the Larger Work as well as the Larger Work as a whole may be licensed under the terms of your choice.
+
+5. Term and Termination
+
+The term of this License begins when You receive the Work, and continues until terminated for any of the reasons described herein, or until all Licensor’s intellectual property rights in the Software expire, whichever comes first (“Term”). This License cannot be revoked, only terminated for the reasons listed below. 
+
+5.1. Effect of Termination
+
+If this License is terminated for any reason, all permissions granted to You under Section 3 by any Licensor automatically terminate. You will immediately cease exercising any permissions granted in this License relative to the Work, including as part of any Modified Work.
+
+5.2. Termination for Non-Compliance; Reinstatement
+
+This License terminates automatically if You fail to comply with any of the conditions in section 4. As a special exception to termination for non-compliance, Your permissions for the Work under this License will automatically be reinstated if You come into compliance with all the conditions in section 2 within sixty (60) days of being notified by Licensor or an intended third party beneficiary of Your noncompliance. You are eligible for reinstatement of permissions for the Work one time only, and only for the sixty days immediately after becoming aware of noncompliance. Loss of permissions granted for the Work under this License due to either a) sustained noncompliance lasting more than sixty days or b) subsequent termination for noncompliance after reinstatement, is permanent, unless rights are specifically restored by Licensor in writing. 
+
+5.3 Termination Due to Litigation
+
+If You initiate litigation against Licensor, or any Recipient of the Work, either direct or indirect, asserting that the Work directly or indirectly infringes any patent, then all permissions granted to You by this License shall terminate. In the event of termination due to litigation, all permissions validly granted by You under this License, directly or indirectly, shall survive termination. Administrative review procedures, declaratory judgment actions, counterclaims in response to patent litigation, and enforcement actions against former Licensees terminated under this section do not cause termination due to litigation.
+
+6. Disclaimer of Warranty and Limit on Liability
+
+As far as the law allows, the Work comes AS-IS, without any warranty of any kind, and no Licensor or contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim, or for any type of damages, including indirect, special, incidental, or consequential damages of any type arising as a result of this License or the use of the Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of profits, revenue, or any and all other commercial damages or losses. 
+
+7. Other Provisions
+
+7.1. Affiliates
+
+An “Affiliate” means any other entity that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, the Licensee. Employees of a Licensee and natural persons acting as contractors exclusively providing services to Licensee are also Affiliates.
+
+7.2. Choice of Jurisdiction and Governing Law
+
 A Licensor may require that any action or suit by a Licensee relating to a Work provided by Licensor under this License may be brought only in the courts of a particular jurisdiction and under the laws of a particular jurisdiction (excluding its conflict-of-law provisions), if Licensor provides conspicuous notice of the particular jurisdiction to all Licensees.
 
-### 7.2. No Sublicensing
-This License is not sublicensable. Each time You provide the Work or a Modified Work to a Recipient, the Recipient automatically receives a license under the terms described in this License. You may not impose any further restrictions on the Recipients’ exercise of the permissions granted herein.
+7.3. No Sublicensing
 
-### 7.3. Attorneys' Fees
-In any action to enforce the terms of this License or seeking damages relating thereto, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action. This section shall survive the termination of this License.
+This License is not sublicensable. Each time You provide the Work or a Modified Work to a Recipient, the Recipient automatically receives a license under the terms described in this License. You may not impose any further reservations, conditions, or other provisions on any Recipients’ exercise of the permissions granted herein. 
 
-### 7.4. No Waiver
+7.4. Attorneys' Fees
+
+In any action to enforce the terms of this License, or seeking damages relating thereto, including by an intended third party beneficiary, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action. A “prevailing party” is the party that achieves, or avoids, compliance with this License, including through settlement. This section shall survive the termination of this License.
+
+7.5. No Waiver
+
 Any failure by Licensor to enforce any provision of this License will not constitute a present or future waiver of such provision nor limit Licensor’s ability to enforce such provision at a later time.
 
-### 7.5 Severability
-If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any invalid or unenforceable portions will be interpreted to the effect and intent of the original portion. If such construction is not possible, the invalid or unenforceable portion will be severed from this License but the rest of this License will remain in full force and effect.
+7.6. Severability
 
-### 7.6 License for the Text of this License.
-The text of this license is released under a Creative Commons Attribution Share-Alike License, with the caveat that any modifications of this license may not use the name “Cryptographic Autonomy License” or any name confusingly similar thereto to describe any derived work of this License.
+If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any invalid or unenforceable portion will be interpreted to the effect and intent of the original portion. If such a construction is not possible, the invalid or unenforceable portion will be severed from this License but the rest of this License will remain in full force and effect.
 
+7.7. License for the Text of this License
+
+The text of this license is released under the Creative Commons Attribution-ShareAlike 4.0 International License, with the caveat that any modifications of this license may not use the name “Cryptographic Autonomy License” or any name confusingly similar thereto to describe any derived work of this License.
